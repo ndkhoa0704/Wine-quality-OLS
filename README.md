@@ -1,7 +1,7 @@
 # Wine-quality predictor
 * School project <br>
-* A script shows that how model is created using ordinary least square from scratch <br>
-* All the models are linear regression models
+* A script shows that how model is created using **ordinary least square** from scratch <br>
+* All the models are **linear regression models**
 _____
 ## The script contains **3 parts**:
 - **Part 1:** A model is created by using all provided attributes and all data from dataset.
