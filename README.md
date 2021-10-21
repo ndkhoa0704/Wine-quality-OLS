@@ -1,4 +1,4 @@
-# Wine-quality
+# Wine-quality predictor
 * School project <br>
 * A script shows that how model is created using ordinary least square from scratch <br>
 * All the models are linear regression models
